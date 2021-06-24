@@ -12,6 +12,6 @@ Contact Page – Contact page contains a form which when filled stores the data 
 
 Execution:
 1) Download the project from git
-2) Install react node modules by executing the command "npm init react-app"
-3) "cd my-app"
-4) "npm start" to execute the project
+2) Install react node modules by executing the command `npm init react-app`
+3) `cd my-app`
+4) `npm start` to execute the project
